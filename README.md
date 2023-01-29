@@ -1,6 +1,8 @@
 # FlashED
 FlashED is a program that manipulates online dictionary.txt files into a flashcard editor that can create easily parseable text files to import into Studying Applications such as Quizlet and Anki
 
+https://www.youtube.com/watch?v=4D1ZQRMCmqE
+
 ## Table of Contents
 
 - Introduction
@@ -12,7 +14,7 @@ FlashED is a program that manipulates online dictionary.txt files into a flashca
 
 ## Introduction
 
-Hello, Welcome to FlashED! This is my very first project after coding for approximately threee months so good practice
+Hello, Welcome to FlashED! This is my very first project after coding for approximately three months so good practice
 and standards are not really my strong suit :) Please be nice to me T^T
 
 FlashED has been a program that I wish existed during my journey of learning different languages. I always hated upon
